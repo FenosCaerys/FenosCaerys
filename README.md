@@ -1,16 +1,20 @@
-## Hi there 👋
+# AlanOroungobi
 
-<!--
-**FenosCaerys/FenosCaerys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+moi c’est Alan OROU N'GOBI 
 
-Here are some ideas to get you started:
+Développeur Full-Stack passionné par l'IA et le Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences techniques
+- Langages : JavaScript, Python, HTML/CSS
+- Frameworks : React, Next.js, Node.js ( API REST )
+- Bases de données : MySQL, Postgresql, Prisma
+- Autres : Git, Docker
+
+## 🧠 Ce qui me passionne
+- Concevoir des applications utiles
+- Lier IA et développement web
+- Aider les autres à apprendre via mes projets
+
+## 📫 Me contacter
+- 🌐 linkedIn (https://www.linkedin.com/in/alan-oroun-gobi-b72198251?trk=contact-info)
+- 📧 alan@globodai.com
