@@ -1,4 +1,3 @@
-# AlanOroungobi
 
 moi c’est Alan OROU N'GOBI 
 
