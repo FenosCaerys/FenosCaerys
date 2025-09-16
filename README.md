@@ -1,18 +1,20 @@
-# OROU N'GOBI Alan
+# Alan OROU N'GOBI
 
 Développeur Full-Stack passionné par l'IA et le Web.
 
 ## 🔧 Compétences techniques
-- Langages : JavaScript, Python, HTML/CSS
 - Frameworks : React, Next.js, Node.js ( API REST )
+- Langages : JavaScript, Python, HTML/CSS
 - Bases de données : MySQL, Postgresql, Prisma
 - Autres : Git, Docker
 
 ## 🧠 Ce qui me passionne
-- Concevoir des applications utiles
+- Concevoir des applications utiles et solution digitale
 - Lier IA et développement web
-- Aider les autres à apprendre via mes projets
+- Associer le Génie Civil et la programmation
+- Aider les autres à apprendre à travers mes projets
 
 ## 📫 Me contacter
-- 🌐 linkedIn (https://www.linkedin.com/in/alan-oroun-gobi-b72198251?trk=contact-info)
+- 🌐 linkedIn (https://www.linkedin.com/in/alan-oroun-gobi-b72198251/)
+- 🌐 facebook (https://www.facebook.com/profile.php?id=100076286473490)
 - 📧 alan@globodai.com
