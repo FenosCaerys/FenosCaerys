@@ -3,8 +3,8 @@
 Développeur Full-Stack passionné par l'IA et le Web.
 
 ## 🔧 Compétences techniques
-- Frameworks : React, Next.js, Node.js ( API REST )
-- Langages : JavaScript, Python, HTML/CSS
+- Frameworks : React, React-native, Next.js, Node.js ( API REST )
+- Langages : JavaScript, Python, PHP
 - Bases de données : MySQL, Postgresql, Prisma
 - Autres : Git, Docker
 
@@ -17,4 +17,4 @@ Développeur Full-Stack passionné par l'IA et le Web.
 ## 📫 Me contacter
 - 🌐 linkedIn (https://www.linkedin.com/in/alan-oroun-gobi-b72198251/)
 - 🌐 facebook (https://www.facebook.com/profile.php?id=100076286473490)
-- 📧 alan@globodai.com
+- 🌐 https://www.instagram.com/_is_alan_13?igsh=MWp6Nm40cnYzM2JtdQ==
