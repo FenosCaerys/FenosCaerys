@@ -17,4 +17,4 @@ Développeur Full-Stack passionné par l'IA et le Web.
 ## 📫 Me contacter
 - 🌐 linkedIn (https://www.linkedin.com/in/alan-oroun-gobi-b72198251/)
 - 🌐 facebook (https://www.facebook.com/profile.php?id=100076286473490)
-- 🌐 https://www.instagram.com/_is_alan_13?igsh=MWp6Nm40cnYzM2JtdQ==
+- 🌐 instagram (https://www.instagram.com/_is_alan_13?igsh=MWp6Nm40cnYzM2JtdQ==)
